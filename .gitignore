@@ -1,3 +1,4 @@
+/src/db.sqlite3
 # Created by https://www.gitignore.io
 
 ### OSX ###
@@ -86,4 +87,3 @@ __pycache__/
 local_settings.py
 
 .env
-db.sqlite3
